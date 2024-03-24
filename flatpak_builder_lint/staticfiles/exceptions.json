@@ -909,6 +909,9 @@
     "org.freedesktop.Bustle": {
         "finish-args-arbitrary-dbus-access": "the app requires direct dbus access"
     },
+    "org.gnome.BreakTimer": {
+        "desktop-file-is-hidden": "the app predates this linter rule"
+    },
     "org.gnome.Builder": {
         "finish-args-arbitrary-dbus-access": "IDEs tend to require direct dbus access",
         "finish-args-flatpak-spawn-access": "the app predates this linter rule"
